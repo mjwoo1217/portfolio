@@ -33,7 +33,7 @@ export const PROJECTS = [
     technologies: ["java", "javascript", "vue", "postgresql"],
   },
   {
-    title: "security mail service (target : universe / company)",
+    title: "security mail service",
     image: project3,
     description:
       "Development and maintenance of secure e-mails for public institutions and universities",
