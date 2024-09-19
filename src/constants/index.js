@@ -51,6 +51,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "210 Bangbae-ro, seoul",
-  phoneNo: "+82 3703 7307",
+  phoneNo: "+82 9648 9499",
   email: "mjwoo1217@gmail.com",
 };
